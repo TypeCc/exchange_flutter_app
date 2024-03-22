@@ -20,18 +20,16 @@ Coin Takas uygulamasını yerel makinenizde çalıştırmak için aşağıdaki a
 2. Bu depoyu Git kullanarak yerel makinenize klonlayın:
    ```bash
    git clone https://github.com/sizin-kullanici-adiniz/exchange_flutter_app.git
-   ```bash
-
 3. Proje klasörüne gidin:
    ```bash
-cd exchange_flutter_app
+   cd exchange_flutter_app
+5. Uygulamayı Çalıştırın
    ```bash
-4. Uygulamayı Çalıştırın
-   ```bash
-flutter run
-   ```bash
+   flutter run
    
 ## Ekran Görüntüleri
+
+![Simulator Screen Recording - iPhone 15 Pro - 2024-03-22 at 18 11 54](https://github.com/TypeCc/exchange_flutter_app/assets/118025810/2ebad576-cf7d-4311-957f-8e873d491ff0)
 
 
 ## Katkıda Bulunma
