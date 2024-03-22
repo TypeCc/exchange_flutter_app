@@ -1,6 +1,6 @@
 # CoinExchange 
 
-Coin izleme uygulaması, gerçek zamanlı kripto para birimi fiyatlarını takip etmek için kullanılan bir Flutter uygulamasıdır.
+Coin izleme uygulaması, gerçek zamanlı kripto para birimi fiyatlarını takip etmek için kullanılan bir Flutter uygulamasıdır...
 
 ## Tanıtım
 
